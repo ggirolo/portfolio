@@ -1,0 +1,71 @@
+body {
+    background-color: beige;
+}
+h1 {
+    text-align: center;
+    font-family: "Arvo", cursive;
+    text-shadow: 3px 0 #DA0463;
+    font-size: 3rem;
+    color: orange;    
+}
+.container {
+    text-align: center;
+}
+.buttons {
+    display: inline-block;
+    width: 200px;
+    height: 210px;   
+    margin: 10px;
+    background-color: white;  
+}
+.dicee {
+    background-image: url(images/dicee.png); 
+    font-size: 0%;
+}
+.drumkit {
+    background-image: url(images/drumkit.png);
+    font-size: 0%;
+}
+.deacon {
+    background-image: url(images/deacon.png);
+    font-size: 0%;
+}
+.capstone {
+    background-image: url(images/capstone.png);
+    font-size: 0%;
+}
+.resume {
+    background-image: url(images/resume.png);
+    font-size: 0%;
+}
+.credit {
+    background-image: url(images/credit.png);
+    font-size: 0%;
+}
+.motivation {
+    background-image: url(images/motivation.png);
+    font-size: 0%;
+}
+.web {
+    background-image: url(images/web.png);
+    font-size: 0%;
+}
+.simon {
+    background-image: url(images/simon.png);
+    font-size: 0%;
+}
+.moving {
+    background-image: url(images/moving.png);
+    font-size: 0%;
+}
+.dog {
+    background-image: url(images/dog.png);
+    font-size: 0%;
+}
+.calculator {
+    background-image: url(images/calculator.png);  
+    font-size: 0%;  
+}
+footer {
+    text-align: center;
+}
